@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Luz de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-miel/) |
+| **Get License** | [License this song: Luz de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Underneath the neon glow, your shadow starts to play
+> I trace the lines you leave behind, I cannot look away
+> You got that midnight magic, dangerous and sweet
+> Let me be the rhythm that guides your dancing feet
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
